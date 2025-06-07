@@ -15,9 +15,9 @@
 
 | Project Name        | Project Description                                |       Tech Stack       | Live Links                                |
 |---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
-| ResearcHub          | Platform for researchers to manage teams, tasks, documents and communications in one integrated workspace. | React,Node.js,MongoDB,Socket.io,Quill.js |[ResearcHub](https://researc-hub-pbl.vercel.app/)|
-| DocSteps            | A portal that guides users on steps and documents needed for various legal papers. |   HTML,CSS,JavaScript,Boostrap |                    -                         |
-| Sentiment Analyzer  | Tool that analyzes sentiment from text to uncover emotions and insights effortlessly. |  Python,Node.js,HTML,CSS |                    -                         | 
+| [ResearcHub](https://github.com/sabaneabhishek0110/ResearcHub-PBL)          | Platform for researchers to manage teams, tasks, documents and communications in one integrated workspace. | React,Node.js,MongoDB,Socket.io,Quill.js |[ResearcHub](https://researc-hub-pbl.vercel.app/)|
+| [DocSteps](https://github.com/sabaneabhishek0110/Document_Assistant)            | A portal that guides users on steps and documents needed for various legal papers. |   HTML,CSS,JavaScript,Boostrap |                    -                         |
+| Sentiment Analyzer  | Tool that analyzes sentiment from text to uncover emotions and insights effortlessly. |  Python,Node.js,HTML,CSS,JavaScript |                    -                         | 
 
 
 ## 🛠️ Tech Stack
