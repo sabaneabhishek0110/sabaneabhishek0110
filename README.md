@@ -13,24 +13,15 @@
 
 ## 🚀 Projects
 
-|---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
 | Project Name        | Project Description                                |       Tech Stack       | Deployed Link                                |
 |---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
 | ResearcHub          | Platform for researchers to manage teams, tasks,   | React,Node.js,MongoDB, |                                              |
 |                     | documents and communications in one integrated     | Socket.io,Quill.js     | [ResearcHub](https://example.com/project-one)|
 |                     | workspace.                                         |                        |                                              |
-|---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
 | DocSteps            | A portal that guides users on steps and documents  |   HTML,CSS,JavaScript, |                    -                         |
 |                     | needed for various legal papers.                   |       Boostrap         |                                              |
-|---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
 | Sentiment Analyzer  | Tool that analyzes sentiment from text to uncover  |  Python,Node.js,HTML,  |                    -                         | 
 |                     | emotions and insights effortlessly.                |          CSS           |                                              |
-|---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
-
-
-
-
-
 
 
 ## 🛠️ Tech Stack
