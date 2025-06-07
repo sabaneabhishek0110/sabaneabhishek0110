@@ -13,15 +13,11 @@
 
 ## 🚀 Projects
 
-| Project Name        | Project Description                                |       Tech Stack       | Deployed Link                                |
+| Project Name        | Project Description                                |       Tech Stack       | Live Links                                |
 |---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
-| ResearcHub          | Platform for researchers to manage teams, tasks,   | React,Node.js,MongoDB, |                                              |
-|                     | documents and communications in one integrated     | Socket.io,Quill.js     | [ResearcHub](https://example.com/project-one)|
-|                     | workspace.                                         |                        |                                              |
-| DocSteps            | A portal that guides users on steps and documents  |   HTML,CSS,JavaScript, |                    -                         |
-|                     | needed for various legal papers.                   |       Boostrap         |                                              |
-| Sentiment Analyzer  | Tool that analyzes sentiment from text to uncover  |  Python,Node.js,HTML,  |                    -                         | 
-|                     | emotions and insights effortlessly.                |          CSS           |                                              |
+| ResearcHub          | Platform for researchers to manage teams, tasks, documents and communications in one integrated workspace. | React,Node.js,MongoDB,Socket.io,Quill.js |[ResearcHub](https://researc-hub-pbl.vercel.app/)|
+| DocSteps            | A portal that guides users on steps and documents needed for various legal papers. |   HTML,CSS,JavaScript,Boostrap |                    -                         |
+| Sentiment Analyzer  | Tool that analyzes sentiment from text to uncover emotions and insights effortlessly. |  Python,Node.js,HTML,CSS |                    -                         | 
 
 
 ## 🛠️ Tech Stack
