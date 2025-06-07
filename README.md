@@ -19,6 +19,7 @@
 | [DocSteps](https://github.com/sabaneabhishek0110/Document_Assistant)            | A portal that guides users on steps and documents needed for various legal papers. |   HTML,CSS,JavaScript,Boostrap |                    -                         |
 | Sentiment Analyzer  | Tool that analyzes sentiment from text to uncover emotions and insights effortlessly. |  Python,Node.js,HTML,CSS,JavaScript |                    -                         | 
 
+---
 
 ## 🛠️ Tech Stack
 
