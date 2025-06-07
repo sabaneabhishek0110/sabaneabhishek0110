@@ -11,6 +11,28 @@
 
 ---
 
+## 🚀 Projects
+
+|---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
+| Project Name        | Project Description                                |       Tech Stack       | Deployed Link                                |
+|---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
+| ResearcHub          | Platform for researchers to manage teams, tasks,   | React,Node.js,MongoDB, |                                              |
+|                     | documents and communications in one integrated     | Socket.io,Quill.js     | [ResearcHub](https://example.com/project-one)|
+|                     | workspace.                                         |                        |                                              |
+|---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
+| DocSteps            | A portal that guides users on steps and documents  |   HTML,CSS,JavaScript, |                    -                         |
+|                     | needed for various legal papers.                   |       Boostrap         |                                              |
+|---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
+| Sentiment Analyzer  | Tool that analyzes sentiment from text to uncover  |  Python,Node.js,HTML,  |                    -                         | 
+|                     | emotions and insights effortlessly.                |          CSS           |                                              |
+|---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
+
+
+
+
+
+
+
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,6 +48,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 
 
