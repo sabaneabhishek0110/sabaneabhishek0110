@@ -13,11 +13,11 @@
 
 ## 🚀 Projects
 
-| Project Name        | Project Description                                |       Tech Stack       | Live Links                                |
+| Project Name        | Project Description                                |       Tech Stack       | Live Links             |
 |---------------------|----------------------------------------------------|------------------------|----------------------------------------------|
-| [ResearcHub](https://github.com/sabaneabhishek0110/ResearcHub-PBL)          | Platform for researchers to manage teams, tasks, documents and communications in one integrated workspace. | React,Node.js,MongoDB,Socket.io,Quill.js |[ResearcHub](https://researc-hub-pbl.vercel.app/)|
-| [DocSteps](https://github.com/sabaneabhishek0110/Document_Assistant)            | A portal that guides users on steps and documents needed for various legal papers. |   HTML,CSS,JavaScript,Boostrap |                    -                         |
-| [Sentiment Analyzer](https://github.com/sabaneabhishek0110/Sentiment-Analyzer)  | Tool that analyzes sentiment from text to uncover emotions and insights effortlessly. |  Python,Next.js,TailwindCSS,JavaScript |        [Sentiment Analyzer](https://sentiment-analyzer-one-blush.vercel.app/)     | 
+| [ResearcHub](https://github.com/sabaneabhishek0110/ResearcHub-PBL)          | Platform for researchers to manage teams, tasks, documents and communications in one integrated workspace. | React, Node.js, MongoDB, Socket.io, Quill.js |[ResearcHub](https://researc-hub-pbl.vercel.app/)|
+| [DocSteps](https://github.com/sabaneabhishek0110/Document_Assistant)            | A portal that guides users on steps and documents needed for various legal papers. |   HTML, CSS, JavaScript, Boostrap |                    -                        |
+| [Sentiment Analyzer](https://github.com/sabaneabhishek0110/Sentiment-Analyzer)  | Tool that analyzes sentiment from text to uncover emotions and insights effortlessly. |  Python, Next.js, TailwindCSS, JavaScript |        [Sentiment Analyzer](https://sentiment-analyzer-one-blush.vercel.app/)     | 
 
 ---
 
